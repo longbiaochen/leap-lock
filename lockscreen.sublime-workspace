@@ -1,0 +1,754 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "boxy",
+		"selected_items":
+		[
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"latextools",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"recent",
+				"Evernote: List recent notes"
+			],
+			[
+				"evernote ",
+				"Evernote: List recent notes"
+			],
+			[
+				"evernote",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"ever",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"edit ",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"edit c",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorscheme",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"recon",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"temp",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"tem",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"delete",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"de",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"te",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"del",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"dele",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"tempo",
+				"LaTexTools: Delete temporary files"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 369.0,
+		"history":
+		[
+			"exit()",
+			"exit",
+			"from getTeXRoot import get_tex_root",
+			"home",
+			"cls",
+			"clear",
+			"from getTeXRoot import get_tex_root",
+			"Reconfigure",
+			"Evernote: Reconfigure",
+			"print('\\n' * 50) ",
+			"------",
+			"clear",
+			"home",
+			"cls",
+			"clc",
+			"clear",
+			"jekyll_new_post",
+			"clear",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Felix/Projects/lockscreen"
+	],
+	"file_history":
+	[
+		"/Users/Felix/Projects/lockscreen/lockscreen.py",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Felix/Projects/lockscreen/main.py",
+		"/Users/Felix/Projects/lockscreen/setup.py",
+		"/Users/Felix/Projects/lockscreen/fullscreen.py",
+		"/Users/Felix/Projects/lockscreen/Leap.py",
+		"/Users/Felix/Downloads/blue.py",
+		"/Users/Felix/Projects/hackintosh/lock_screen.cpp",
+		"/Users/Felix/Documents/FCS2016/crv.tex",
+		"/Users/Felix/Downloads/sublime-replacement-tilted/README.md",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/Users/Felix/Documents/FCS2016/fcs.bst",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/Felix/Documents/FCS2016/crv.pdf",
+		"/Users/Felix/Documents/FCS2016/crv.log",
+		"/Users/Felix/Documents/FCS2016/crv.bbl",
+		"/Users/Felix/Documents/UbiComp16/crv.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/final.toc",
+		"/Users/Felix/Documents/ZJUDoctorate/[no file]",
+		"/Users/Felix/Documents/Synergy/Felix.conf",
+		"/Users/Felix/Documents/ZJUDoctorate/anonymized_version.tex",
+		"/Users/Felix/Documents/GIS, 地理信息科学学报/draft_2.tex",
+		"/Users/Felix/Documents/UPMC/Progress_Report_2.toc",
+		"/Users/Felix/Documents/UPMC/Progress_Report_1.tex",
+		"/Users/Felix/Documents/UbiComp16/sigchi.cls",
+		"/Users/Felix/Documents/CV/厦门大学/陈龙彪_个人简历.tex",
+		"/Users/Felix/Documents/UbiComp15/UbiComp_Slides_2.tex",
+		"/Users/Felix/Documents/UbiComp15/draft-07-22.tex",
+		"/Users/Felix/Documents/Talks/XMU/XMU_2015.tex",
+		"/Users/Felix/Documents/GIS, 地理信息科学学报/draft_1.bbl",
+		"/Users/Felix/Downloads/____xelatex__/xelatex-xeCJK.tex",
+		"/Users/Felix/Documents/THMS2016/final.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/xelatex/xecjk/xeCJK.sty",
+		"/Users/Felix/Documents/GIS, 地理信息科学学报/draft_1.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/anonymized_version.lof",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/chap3.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/chap5.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/anonymized_version.bbl",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/chap1.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/chap2.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/absc.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/abse.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/chap6.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/anonymized_cover.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/chap4.tex",
+		"/Users/Felix/Documents/TITS2015/crv/public.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/anonymized_publications.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/cite/cite.sty",
+		"/Users/Felix/Documents/ZJUDoctorate/anonymized_version.aux",
+		"/Users/Felix/Documents/ZJUDoctorate/ZWS/main.tex",
+		"/Users/Felix/Downloads/test.html",
+		"/Users/Felix/Documents/ZJUDoctorate/anonymized_version.lot",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/publications.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/cover.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/hide.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/chapters/thanks.tex",
+		"/Users/Felix/Documents/CV/Longbiao_Chen_CV.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/main.tex",
+		"/Users/Felix/Documents/UbiComp16/response.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty",
+		"/Users/Felix/Documents/THMS2016/source/final.tex",
+		"/Users/Felix/Dropbox/leanote/conf/app.conf",
+		"/Users/Felix/Documents/THMS2016/final_no_markup.tex",
+		"/Users/Felix/Documents/Talks/Pre-Defense/陈龙彪_11021004_预答辩.tex",
+		"/Users/Felix/Documents/Talks/Pre-Defense/陈龙彪_11021004_预答辩.toc",
+		"/usr/local/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty",
+		"/Users/Felix/Documents/ZJUDoctorate/mainx.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty",
+		"/Users/Felix/Documents/UbiComp16/crv_1.tex",
+		"/Users/Felix/Documents/ZJUDoctorate/main.toc",
+		"/Users/Felix/Documents/ZJUDoctorate/ZWS/data/chap2.tex",
+		"/Users/Felix/Documents/UbiComp16/response_1.tex",
+		"/Users/Felix/Documents/Talks/PvC/PvC2015.tex",
+		"/Users/Felix/Documents/THMS2016/final_response.tex",
+		"/Users/Felix/Documents/FCS2016/draft_4.tex",
+		"/Users/Felix/Documents/UbiComp16/crv_1.bbl",
+		"/Users/Felix/Documents/THMS2016/response_6.tex",
+		"/Users/Felix/Documents/THMS2016/draft_23.tex",
+		"/Users/Felix/Documents/UbiComp16/draft_30.tex",
+		"/Users/Felix/Documents/UbiComp16/draft_28.tex",
+		"/Users/Felix/Documents/CV/陈龙彪_个人简历.tex",
+		"/Users/Felix/Documents/FCS2015/draft_3.tex",
+		"/Users/Felix/Documents/UIC16/draft_2.tex",
+		"/Users/Felix/Documents/UIC16/crv.bbl",
+		"/Users/Felix/Documents/test/text",
+		"/Users/Felix/Documents/NC2015/draft_3.bbl",
+		"/Users/Felix/Dropbox/homepage/index.md",
+		"/Users/Felix/Documents/NC2015/draft_2.bbl",
+		"/Users/Felix/Documents/Neurocomputing2015/draft_2.tex",
+		"/Users/Felix/Documents/Neurocomputing2015/draft_1.tex",
+		"/Users/Felix/Documents/EnUp/draft_2.tex",
+		"/Users/Felix/Documents/InstaUp/draft_2.tex",
+		"/Users/Felix/Documents/UPMC/Slides_2.tex",
+		"/Users/Felix/Library/Rime/wubi_pinyin.schema.yaml",
+		"/Users/Felix/Dropbox/homepage/_posts/2016-04-26-test.markdown",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/Felix/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/DFC4D19B-62FB-4EFE-8D1E-FD70142F03EB/160422.txt",
+		"/Users/Felix/Documents/Templates/Beamer/presentation_1.tex",
+		"/Users/Felix/Documents/UPMC/Slides_1.tex",
+		"/Users/Felix/Documents/UPMC/report_1.tex",
+		"/Users/Felix/Documents/THMS2015/draft_23.bbl",
+		"/Users/Felix/Documents/THMS2015/response_5.bbl",
+		"/Users/Felix/Documents/THMS2015/draft_20.tex",
+		"/Users/Felix/Documents/THMS2015/response_3.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty",
+		"/Users/Felix/Documents/UbiComp16/draft_27.tex",
+		"/Users/Felix/Documents/THMS2015/draft_18.tex",
+		"/Users/Felix/Documents/THMS2015/response_2.bbl",
+		"/Users/Felix/Documents/THMS2015/response_2.tex",
+		"/Users/Felix/Documents/THMS2015/segment.tex",
+		"/Users/Felix/Documents/Neurocomputing2015/elsarticle-template.tex",
+		"/Users/Felix/Documents/THMS2015/Response Letter.tex",
+		"/Users/Felix/Documents/THMS2015/draft_17.tex",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/Colorsublime - Themes/Eiffel.tmTheme",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Eiffel.tmTheme",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/Felix/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Felix/Documents/UbiComp16/archives/draft_18.tex",
+		"/Users/Felix/Documents/UbiComp16/archives/draft_19.tex",
+		"/Users/Felix/Documents/UbiComp16/draft_20.bbl",
+		"/Users/Felix/Documents/UbiComp16/draft_18.bbl",
+		"/Users/Felix/Documents/UbiComp16/draft_18.tex",
+		"/Users/Felix/Documents/UbiComp16/draft_17.tex",
+		"/Users/Felix/Documents/UbiComp16/proceedings.tex",
+		"/Users/Felix/Downloads/sigchi-latex-proceedings/proceedings.tex",
+		"/Users/Felix/Documents/UbiComp16/[no file]"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 92.5,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"//",
+			"when",
+			"caption",
+			"yin",
+			"Fanaee-T",
+			"Sim",
+			"Terra",
+			"Earth",
+			".local",
+			"zheng_urban_2014",
+			"zhang",
+			"Level",
+			"-level",
+			"\\small",
+			"\\small ",
+			"\\small",
+			".2\\textwidth",
+			"Idea:",
+			"Method:",
+			".21\\textwidth",
+			".215\\textwidth",
+			"includegraphics",
+			"figure",
+			"urban sensing data fusion",
+			"today",
+			"Idea",
+			"urban sensing",
+			"event sensing",
+			"sensing",
+			"Sensing",
+			"Idea",
+			"Idean",
+			"check-in",
+			"region",
+			"leveraging",
+			"[label=3.3]{工作三：语义层面的融合}",
+			"Method:",
+			"{figures/",
+			"Data-Level Fusion",
+			"[label=3.2]{工作二：特征层面的融合}",
+			"工作一：数据层面的融合",
+			"{工作一：数据层面的融合}",
+			"/framework.eps",
+			"\\[label=.*\\]",
+			"\\[label=*\\]",
+			"竞争力",
+			"align",
+			"trace",
+			"urban data",
+			"异构性",
+			"异构",
+			"版面",
+			"cityos",
+			"语义活动",
+			"非负",
+			"张量",
+			"NT",
+			"非负张量协同分解",
+			"张量",
+			"语义活动分量",
+			"\\end{subfigure}",
+			"\\begin{subfigure}[b]{.22\\textwidth}",
+			"模式",
+			"活动模式",
+			"人流活动模式",
+			"基本人流活动",
+			"基本人流活动模式",
+			"基本人流活动",
+			"非负张量混合分解",
+			"国庆",
+			"国庆日",
+			"人流活动向量",
+			"语义化人流活动模式",
+			"语义活动张量",
+			"纽约和华盛顿",
+			"码头效率",
+			".25\\textwidth",
+			"23\\textwidth",
+			"船舶装卸事件",
+			"靠泊装卸事件",
+			"船舶靠泊装卸事件",
+			"装卸吞吐量",
+			"装卸事件",
+			"码头效率",
+			"subfloat",
+			"-",
+			"\\begin{tabularx",
+			"tabularx",
+			"\\tabularx",
+			"[width=.4\\textwidth]",
+			"[width=.45\\textwidth]",
+			".tiff",
+			"\\end{subfigure}",
+			"\\begin{tabularx}",
+			"tabularx",
+			"吊臂",
+			"natlib",
+			"nat",
+			"natlib",
+			"newcolumntype",
+			"footnote",
+			"Foursquare",
+			"Google",
+			"Google Places API",
+			"\\cite",
+			"}.",
+			".",
+			"\\cite",
+			"\\super",
+			"\\cite",
+			"fig/",
+			"sensing data",
+			"data fusion",
+			"EEE",
+			"\\footnote",
+			"mobility data",
+			".png",
+			"collective",
+			"fig:framework",
+			"[hideallsubsections,currentsection]",
+			"[hideallsubsections][currentsection]",
+			"\\tableofcontents",
+			"hyper",
+			"block",
+			"textbf",
+			"tikz",
+			"感知",
+			"集成"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#",
+			"Terra.local",
+			"Terra",
+			"",
+			"Layer",
+			"-layer",
+			"\\hh",
+			"Approach:",
+			"\\hh",
+			"Characterizing",
+			"[label=2.3]{Work III: Semantics Level Fusion}",
+			"{../figures/",
+			"Data Level Fusion",
+			"[label=2.2]{Work II: Feature Level Fusion}",
+			"Work I: Data-Level Fusion",
+			"{Work I: Data-Level Fusion}",
+			"/framework_en.eps",
+			"",
+			"生产力",
+			"equation",
+			"协同张量分解",
+			"活动语义分量",
+			"}",
+			"\\subfigure[]{",
+			"活动语义分量",
+			"非负张量协同分解",
+			"独立日",
+			"语义活动向量",
+			"语义活动分量",
+			"人群行为张量",
+			"华盛顿和纽约",
+			"码头作业效率",
+			".45\\textwidth",
+			"25\\textwidth",
+			"靠泊装卸事件",
+			"吞吐量",
+			"码头作业效率",
+			"subfigure",
+			"[width=.35\\textwidth]",
+			"[width=.4\\textwidth]",
+			".png",
+			"}",
+			"岸吊",
+			"\\super{\\cite",
+			"data",
+			".tiff",
+			"[currentsection,hideallsubsections]",
+			"[hideallsubsections,currentsection]",
+			"\\tableofcontents[hideallsubsections]",
+			"emch",
+			"检测",
+			"协同张量",
+			"[label=3.3]",
+			"[label=3.2]",
+			"[label=3.1]",
+			"[label=s3.3]",
+			"[label=s3.2]",
+			"label=s2",
+			"混合学习",
+			"协同张量",
+			"NAIVE",
+			"SINGLE",
+			"集成学习",
+			"",
+			"/dc_",
+			"{../figures",
+			"人群行为张量",
+			"人流移动张量",
+			"人群行为",
+			"活动语义",
+			"emch",
+			"人群行为",
+			"活动语义",
+			"混合学习",
+			"混合预测",
+			"\\hll{",
+			"[88]",
+			"[87]",
+			"[86]",
+			"[85]",
+			"-.5cm",
+			"-.7cm",
+			"-.8cm",
+			"-.7cm",
+			"vspace{-.6cm}",
+			"0.23\\\\textwidth",
+			"0.23\\textwidth",
+			"Social activity",
+			"Social Activity",
+			"collective activity",
+			"social activity",
+			"$ MinPts $",
+			"crowd mobility",
+			"semantic information",
+			"Collective Activity",
+			"Collective activity",
+			"collective activity",
+			"Crowd Mobility",
+			"crowd mobility",
+			"Crowd mobility data",
+			"crowd mobility data",
+			"social activity",
+			"Human mobility",
+			"Social Activity",
+			"Human Mobility",
+			"social activity",
+			"human",
+			"crowd mobility",
+			"''",
+			"crowd activity",
+			"Crowd Activity",
+			"Crowd Mobility",
+			"crowd activity data",
+			"crowd mobility data",
+			"urban event",
+			"social event",
+			"0.24",
+			"0.225",
+			"weather condition",
+			"bike usage",
+			"so that",
+			"'",
+			"MC",
+			"\\Psi_c",
+			"Contextual Factors",
+			"contextual factors",
+			"Common Context",
+			"common context"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 221.0
+	},
+	"pinned_build_system": "",
+	"project": "lockscreen.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/FCS2016/duokan_reader.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
